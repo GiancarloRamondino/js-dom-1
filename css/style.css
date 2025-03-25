@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: rgb(9, 255, 0);
+    height: 100px;
+}
+
+button{
+    background-color: #4CAF50;
+    Border: none;
+    color: white;
+    padding: 15px 32px;
+    Text-align: center;
+    border-radius: 25px;
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+col{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#btn {
+
+}
+
+.btn:hover{
+    background-color: Red;
+}
+
+#target{
+
+}
+
