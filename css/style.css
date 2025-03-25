@@ -31,13 +31,17 @@ col{
 
 #btn {
 
+
 }
 
-.btn:hover{
+#btn:hover{
     background-color: Red;
+    transition: 3s;
 }
 
 #target{
 
 }
+
+
 
