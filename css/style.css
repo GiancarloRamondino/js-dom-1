@@ -34,13 +34,21 @@ col{
 
 }
 
-#btn:hover{
-    background-color: Red;
+/*#btn:hover{
+    background-color: rgb(60, 255, 0);
     transition: 3s;
-}
+}*/
 
 #target{
 
+}
+
+.regolazione{
+    padding-right:140px;
+}
+
+.colore{
+    color: red;
 }
 
 
